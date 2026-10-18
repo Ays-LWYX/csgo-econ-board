@@ -5,7 +5,7 @@ team can spend and what the other team is likely to spend, how much should I com
 
 Team: Yancheng Gong's Team
 
-Live app: ADD_YOUR_STREAMLIT_URL_HERE
+Live app: https://csgo-econ-board.streamlit.app
 
 ---
 
